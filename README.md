@@ -2,5 +2,5 @@
 
 Selamat datang di profil GitHub-ku!
 
-## 🐍 Animasi Kontribusi:
-![GitHub Snake](https://github.com/nijar/nijar/blob/manual-run-output/github-contribution-grid-snake.svg)
+
+![GitHub Snake](https://github.com/Nizaru-gpt/Nizaru-gpt/blob/manual-run-output/dist/github-contribution-grid-snake.svg)
