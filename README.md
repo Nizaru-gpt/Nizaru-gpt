@@ -2,8 +2,9 @@
 
 # Heyy It's Me Nizar 👋
 
-**Full Stack Developer | AI Enthusiast**
+**Full Stack Developer | AI Enthusiast | Problem Solver**
 
+</div>
 
 ## 🧑‍💻 About Me
 
@@ -25,7 +26,7 @@ Hi! I'm Nizar, a passionate developer from Indonesia who loves creating innovati
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
-
+</div>
 
 ## 📊 GitHub Stats
 
@@ -36,7 +37,7 @@ Hi! I'm Nizar, a passionate developer from Indonesia who loves creating innovati
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nizaru-gpt&theme=default&hide_border=true" />
-
+</div>
 
 ## 🌱 What I'm Working On
 
@@ -50,17 +51,13 @@ Hi! I'm Nizar, a passionate developer from Indonesia who loves creating innovati
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nizar)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nizar_dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nizarqulubi2@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nizar.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nizar.dev@gmail.com)
 
-
-
-<div align="center">
+</div>
 
 **Thanks for visiting my profile! Feel free to explore my repositories** ⭐
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nizaru-gpt&color=blue&style=flat-square)
 
-</div>
-</div>
 </div>
