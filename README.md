@@ -28,17 +28,6 @@ Hi! I'm Nizar, a passionate developer from Indonesia who loves creating innovati
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nizaru-gpt&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nizaru-gpt&layout=compact&theme=default&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nizaru-gpt&theme=default&hide_border=true" />
-</div>
-
 ## 🌱 What I'm Working On
 
 - Building responsive web applications with modern JavaScript
