@@ -10,10 +10,10 @@ I build end-to-end web systems across frontend, backend, data, and applied AI. M
 
 | Project | What I built | Core stack |
 | --- | --- | --- |
-| **[VeritasFlow AI](https://github.com/Nizaru-gpt/VeritasFlow_AI)** | Multi-tenant document intelligence platform with governed document workflows, citation-backed AI answers, human review, and auditability. [Live demo](https://veritas-flow-ai.vercel.app/) | Next.js · NestJS · FastAPI · PostgreSQL · pgvector · Redis · MinIO · BullMQ |
+| **[VeritasFlow AI](https://github.com/Nizaru-gpt/VeritasFlow_AI)** | Multi-tenant document intelligence platform with governed document workflows, citation-backed AI answers, human review, and auditability. | Next.js · NestJS · FastAPI · PostgreSQL · pgvector · Redis · MinIO · BullMQ |
 | **SIJATI** — [Frontend](https://github.com/Nizaru-gpt/sijati_fe) · [Backend](https://github.com/Nizaru-gpt/sijati_be) | Public information chatbot developed for Sudin Kominfotik Jakarta Timur, with FAQ/document retrieval, OCR-backed ingestion, and administrative workflows. | React · TypeScript · Express.js · Prisma · OCR |
 | **FisioCare** — [Frontend](https://github.com/Nizaru-gpt/fisiocare_fe) · [Backend](https://github.com/Nizaru-gpt/fisiocare_be) · [ML Service](https://github.com/Nizaru-gpt/fisiocare.ml) | Physiotherapy platform covering patient, therapist, and admin workflows, with an ML service for musculoskeletal injury-risk screening. | Angular · PHP · MySQL · FastAPI · scikit-learn |
-| **ExploreMas** — [Frontend](https://github.com/Nizaru-gpt/ExploreMas) · [Backend](https://github.com/Nizaru-gpt/exploremas_be) | Local discovery and trip-planning platform with authentication, administration, chatbot integration, and a Rust backend. [Live demo](https://explore-mas.vercel.app/) | React · TypeScript · Rust/Axum · PostgreSQL |
+| **ExploreMas** — [Frontend](https://github.com/Nizaru-gpt/ExploreMas) · [Backend](https://github.com/Nizaru-gpt/exploremas_be) | Local discovery and trip-planning platform with authentication, administration, chatbot integration, and a Rust backend. | React · TypeScript · Rust/Axum · PostgreSQL |
 
 ## Engineering Profile
 
